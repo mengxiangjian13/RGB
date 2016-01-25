@@ -13,7 +13,7 @@
 		659C250B1C55F61E006C162B /* Curry.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 659C250A1C55F61E006C162B /* Curry.framework */; };
 		659C250E1C55F68B006C162B /* Nimble.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 659C250C1C55F68B006C162B /* Nimble.framework */; };
 		659C250F1C55F68B006C162B /* Quick.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 659C250D1C55F68B006C162B /* Quick.framework */; };
-		659C25141C5602A1006C162B /* RGBUIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659C25131C5602A1006C162B /* RGBUIColor.swift */; };
+		659C25501C560787006C162B /* RGBUIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659C254F1C560787006C162B /* RGBUIColor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +36,7 @@
 		659C250A1C55F61E006C162B /* Curry.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Curry.framework; path = "Carthage/Checkouts/Curry/build/Debug-iphoneos/Curry.framework"; sourceTree = "<group>"; };
 		659C250C1C55F68B006C162B /* Nimble.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Nimble.framework; path = "Carthage/Checkouts/Nimble/build/Debug-iphoneos/Nimble.framework"; sourceTree = "<group>"; };
 		659C250D1C55F68B006C162B /* Quick.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Quick.framework; path = "Carthage/Checkouts/Quick/build/Debug-iphoneos/Quick.framework"; sourceTree = "<group>"; };
-		659C25131C5602A1006C162B /* RGBUIColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RGBUIColor.swift; path = ../../LearningCode/RGB/RGB/RGBUIColor.swift; sourceTree = "<group>"; };
+		659C254F1C560787006C162B /* RGBUIColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RGBUIColor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,7 +83,7 @@
 		652B6BCA1C549E9400BCD3C7 /* RGB */ = {
 			isa = PBXGroup;
 			children = (
-				659C25131C5602A1006C162B /* RGBUIColor.swift */,
+				659C254F1C560787006C162B /* RGBUIColor.swift */,
 				652B6BCB1C549E9400BCD3C7 /* RGB.h */,
 				652B6BCD1C549E9400BCD3C7 /* Info.plist */,
 			);
@@ -217,7 +217,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				659C25141C5602A1006C162B /* RGBUIColor.swift in Sources */,
+				659C25501C560787006C162B /* RGBUIColor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
