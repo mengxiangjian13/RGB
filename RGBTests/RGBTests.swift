@@ -6,10 +6,30 @@
 //  Copyright © 2016年 mengxiangjian. All rights reserved.
 //
 
-import XCTest
-@testable import RGB
+import Quick
+import Nimble
+import RGB
 
-class RGBTests: XCTestCase {
+class RGBTests: QuickSpec {
+    
+    override func spec() {
+        describe("RGB") {
+            it("works") {
+                expect(true).to(beTrue())
+            }
+        }
+        
+        describe("RGBUIColor") {
+            it("is a corrent presentation of values") {
+                let thoughtbotRed = UIColor(red: CGFloat(195/255),
+                    green: CGFloat(47/225), blue: CGFloat(52/255),
+                    alpha: 1.0)
+                let color = RGBUIColor(red:195, green:47, blue:52)
+                expect(color).to(equal(thoughtbotRed))
+            }
+            
+        }
+    }
     
     override func setUp() {
         super.setUp()

@@ -1,44 +1,57 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9A574F9AF0957FE1FA5658413A67E7101C67272A",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "9A574F9AF0957FE1FA5658413A67E7101C67272A" : 0,
-    "95438028B10BBB846574013D29F154A00556A9D1" : 0,
-    "D0725CAC6FF2D66F2C83C2C48DC12106D42DAA64" : 0,
-    "194A7A54F3CE0138A6C320E0643B7C60F8218891" : 0
+    "D0725CAC6FF2D66F2C83C2C48DC12106D42DAA64+++D41B556" : 0,
+    "9A574F9AF0957FE1FA5658413A67E7101C67272A+++FF2C8EC" : 0,
+    "194A7A54F3CE0138A6C320E0643B7C60F8218891+++06CA0A4" : 0,
+    "95438028B10BBB846574013D29F154A00556A9D1+++6B28E8E" : 0,
+    "95438028B10BBB846574013D29F154A00556A9D1+++929BF23" : 0,
+    "95438028B10BBB846574013D29F154A00556A9D1+++F3C7A4B" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5A141414-73C5-43DE-B2AF-C32300E9A11F",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "9A574F9AF0957FE1FA5658413A67E7101C67272A" : "LearningCode\/",
-    "95438028B10BBB846574013D29F154A00556A9D1" : "LearningCode\/RGB\/Carthage\/Checkouts\/Nimble\/",
-    "D0725CAC6FF2D66F2C83C2C48DC12106D42DAA64" : "LearningCode\/RGB\/Carthage\/Checkouts\/Quick\/",
-    "194A7A54F3CE0138A6C320E0643B7C60F8218891" : "LearningCode\/RGB\/Carthage\/Checkouts\/Curry\/"
+    "D0725CAC6FF2D66F2C83C2C48DC12106D42DAA64+++D41B556" : "RGB\/Carthage\/Checkouts\/Quick\/",
+    "9A574F9AF0957FE1FA5658413A67E7101C67272A+++FF2C8EC" : "LearningCode\/",
+    "194A7A54F3CE0138A6C320E0643B7C60F8218891+++06CA0A4" : "RGB\/Carthage\/Checkouts\/Curry\/",
+    "95438028B10BBB846574013D29F154A00556A9D1+++6B28E8E" : "RGB\/Carthage\/Checkouts\/Nimble\/",
+    "95438028B10BBB846574013D29F154A00556A9D1+++929BF23" : "RGB\/Carthage\/Checkouts\/Quick\/Externals\/Nimble\/",
+    "95438028B10BBB846574013D29F154A00556A9D1+++F3C7A4B" : "RGB\/Carthage\/Checkouts\/Quick\/Externals\/Nimble\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "RGB",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
-  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RGB\/RGB.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RGB.xcworkspace",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/thoughtbot\/Curry.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "194A7A54F3CE0138A6C320E0643B7C60F8218891"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "194A7A54F3CE0138A6C320E0643B7C60F8218891+++06CA0A4"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Quick\/Nimble.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "95438028B10BBB846574013D29F154A00556A9D1"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "95438028B10BBB846574013D29F154A00556A9D1+++6B28E8E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Quick\/Nimble.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "95438028B10BBB846574013D29F154A00556A9D1+++929BF23"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Quick\/Nimble.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "95438028B10BBB846574013D29F154A00556A9D1+++F3C7A4B"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mengxiangjian13\/LearningCode.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9A574F9AF0957FE1FA5658413A67E7101C67272A"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9A574F9AF0957FE1FA5658413A67E7101C67272A+++FF2C8EC"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Quick\/Quick.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D0725CAC6FF2D66F2C83C2C48DC12106D42DAA64"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D0725CAC6FF2D66F2C83C2C48DC12106D42DAA64+++D41B556"
     }
   ]
 }
